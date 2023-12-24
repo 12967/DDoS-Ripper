@@ -22,6 +22,7 @@ To use the DRipper type the following commands in Termux:
 `git clone https://github.com/palahsu/DDoS-Ripper.git`
 
 `cd DDoS-Ripper`
+
 `$ ls`
 
 `$ python3 DRipper.py` 
